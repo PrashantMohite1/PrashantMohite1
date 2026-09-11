@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Prashant%20Mohite&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=20" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Prashant%20Mohite&fontSize=48&fontColor=ffffff&fontAlignY=38&fontFamily=Poppins&desc=DevOps%20Engineer&descAlignY=58&descSize=20" alt="header banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Automating+Infra+with+Terraform+%26+Ansible;Running+CI%2FCD+on+AWS+%26+Azure;Building+Open+Source+Projects" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Automating+Infra+with+Terraform+%26+Ansible;Running+CI%2FCD+on+AWS+%26+Azure;Building+Open+Source+Projects" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -23,7 +23,8 @@ I also maintain a few open-source projects in the DevOps/Kubernetes space (see b
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,python,go,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,python,go,linux" alt="Tech stack" />
+  <img src="assets/argocd-icon.svg" height="48" alt="Argo CD" />
 </p>
 
 ---
@@ -38,18 +39,6 @@ A single, comprehensive home for production-grade Terraform covering managed Kub
 
 #### [k8s-cluster-provisioner](https://github.com/PrashantMohite1/k8s-cluster-provisioner)
 Sometimes you just need a self-managed cluster for practice, testing, or a lower environment. This automates self-managed `kubeadm` cluster creation on AWS EC2 with Terraform and bash: one `terraform apply`, and you've got a ready-to-use cluster in about 10 minutes.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrashantMohite1&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashant's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantMohite1&layout=compact&theme=tokyonight&hide_border=true" alt="Prashant's most used languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantMohite1&theme=tokyonight&hide_border=true" alt="Prashant's GitHub streak" />
-</p>
 
 ---
 
